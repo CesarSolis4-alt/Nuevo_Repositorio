@@ -1,0 +1,6 @@
+id_cliente,nombre,email,telefono,ciudad
+1,Ana Morales,ana.morales@example.com,+34 611223344,Madrid
+2,Carlos Pérez,carlos.perez@example.com,+34 622334455,Barcelona
+3,Lucía Fernández,lucia.fernandez@example.com,+34 633445566,Valencia
+4,Diego Ramírez,diego.ramirez@example.com,+34 644556677,Sevilla
+5,María López,maria.lopez@example.com,+34 655667788,Bilbao
